@@ -63,5 +63,5 @@ The dataset used in this project simulates company sales records including produ
 ---
 
 ## 🔗 Connect with Me
-- **LinkedIn:** [Diaa Refat](https://www.linkedin.com/in/diaarefat7)
+- **LinkedIn:** [Diaa Refat](https://www.linkedin.com/in/diaa-ahmed-refat/)
 - **GitHub:** [DiaaRefat7](https://github.com/DiaaRefat7)
